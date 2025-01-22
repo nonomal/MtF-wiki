@@ -6,13 +6,13 @@ title: 山东省精神卫生中心
 
 医生列表：
 
-- [胡蕾](https://www.haodf.com/doctor/293557.html)
+- [胡蕾](https://www.haodf.com/doctor/293557.html) {{< tag/pos 可劝家长 >}}
 - [张敬悬](https://www.haodf.com/doctor/119561.html) {{< tag/neg "需家属介入" >}}
 - [曹秉玉](https://www.haodf.com/doctor/119528.html) {{< tag/neg "需家属介入" >}}
-- [齐素芳](https://www.haodf.com/doctor/6964430522.html) {{< tag/neg "需家属介入" >}} {{< tag/pos "和蔼" >}}
 - [陈忠](https://www.haodf.com/doctor/6964430516.html)
 - [王洪军](https://www.haodf.com/doctor/3133959974.html)
-- [于晓东](https://www.haodf.com/doctor/6964430538.html) {{< tag/neg "需家属介入" >}} 
+- [于晓东](https://www.haodf.com/doctor/6964430538.html) {{< tag/neg "需家属介入" >}}
+- [陆艺](https://www.haodf.com/doctor/6964430486.html)
 
 所在医院：[山东省精神卫生中心](https://amap.com/place/B0FFM4NU1Y)
 
@@ -50,6 +50,11 @@ title: 山东省精神卫生中心
 
 ---
 
+- 关于开小证：就诊时向医生说明自己的情况，之后会被要求做几个量表（笔者为 2 个）。医生会在病历中做出包括“性别身份障碍”的诊断。一般会开出抗焦虑的药。就诊结束后，即可去取号机打印电子病历，即小证
+- 山东省精卫亦可抽血化验。例如，若在北医三院处启动了激素治疗，山东省精卫可进行所有复查化验项目，若不想在其他医院处说明检查意图，可以到此挂号进行抽血化验
+
+---
+
 - **胡蕾** 的号很难挂
   一般两分钟之内就会被抢光，建议卡点抢，多试几次，挂尽可能靠后的号，也可以试试放号时间之后捡漏看有没有退号的
 - **曹秉玉** 相对容易挂号（不建议 携带家属 与 该医生 进行初诊）
@@ -68,4 +73,4 @@ title: 山东省精神卫生中心
 
 ## 证明样式 {#proof}
 
-![证明](proof.jpg)
+{{< watermark "proof.jpg" >}}

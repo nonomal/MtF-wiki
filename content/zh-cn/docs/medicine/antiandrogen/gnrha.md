@@ -35,10 +35,10 @@ GnRH 类似物常规可应用于性早熟儿童的治疗，具有良好的可逆
 目前国内有亮丙瑞林注射剂、曲普瑞林注射剂等可用 [^6] [^8]。
 
 - 如果您是未成年跨儿，请要求家长陪同前往专业的医院进行就诊。
-- 如果你是跨儿的家长，请尽早陪同您的小孩前往专业医院就诊。
-  - 可以找上海地区 [邱文娟]({{< ref "qiu-wenjuan" >}}) 医生
-  - 可以找北医三院 [刘烨]({{< ref "liu-ye" >}}) 医生
-  - 可以前往 [复旦大学附属儿童医院]({{< ref "fudan-ch" >}})
+- 如果你是跨儿的家长，请尽早陪同您的小孩前往专业医院就诊：
+  1. [北医三院｜刘烨]({{< ref "liu-ye" >}})
+  1. [复旦大学附属儿童医院]({{< ref "fudan-ch" >}})
+  1. [广州暨南一院｜高绿芬]({{< ref "jnuh1" >}})
 
 {{< notice error "提示" >}}
 不提供用药信息，请咨询专业医生。
@@ -52,6 +52,6 @@ gender dysphoria in the UK [EB/OL]. *PLOS ONE*, 2021. <https://doi.org/10.1371/j
 [^3]: Aly. An Introduction to Hormone Therapy for Transfeminine People [EB/OL]. *Transfeminine Science*, 2018. 中译本：《[女性倾向跨性别者的激素治疗简介](https://tfsci.mtf.wiki/articles/transfem-intro/#gnrh-agonists-and-antagonists)》
 [^4]: Wesley Jim Goedegebuure, et al. Cognition, Health-Related Quality of Life, and Psychosocial Functioning After GH/GnRHa Treatment in Young Adults Born SGA [J]. *The Journal of Clinical Endocrinology & Metabolism*, 2018, *103*(11):3931–3938. <https://doi.org/10.1210/jc.2018-01463>
 [^5]: Cleveland Clinic. What Are Puberty Blockers? [EB/OL]. <https://health.clevelandclinic.org/what-are-puberty-blockers/>
-[^6]: 浙江省药械采购平台. 关于公布浙江省公立医疗机构第三批药品集中带量采购中选结果的通知 [EB/OL]. <https://www.zjyxcg.cn/detail.html?infoId=5881&CatalogId=3>
+[^6]: 浙江省药械采购平台. 关于公布浙江省公立医疗机构第三批药品集中带量采购中选结果的通知 [EB/OL]. <http://ybj.zj.gov.cn/art/2023/5/29/art_1229225636_5118733.html>
 [^7]: 米内网. 医药大省集采结果来了，丽珠、石四药......成功突围 [EB/OL]. <https://www.menet.com.cn/info/202212/2022122010030131_144992.shtml>
 [^8]: 福建省药械联合采购中心. 关于公布2022年福建省药品集中带量采购中选结果的通知 [EB/OL]. 福建省医疗保健局, 2022. <https://ybj.fujian.gov.cn/ztzl/yxcg/ggtz/202211/t20221114_6047117.htm>

@@ -1,13 +1,35 @@
 # see https://github.com/actions/labeler
 
-hrt:
-  - '**/docs/hrt/*'
-  - '**/docs/medicine/*'
+Content | 内容:
+- changed-files:
+  - any-glob-to-any-file: '**/docs/**'
 
-srs:
-  - '**/docs/srs/*'
-  - '**/docs/ffs/*'
+HRT:
+- changed-files:
+  - any-glob-to-any-file:
+    - '**/docs/hrt/**'
+    - '**/docs/medicine/**'
 
-psycho:
-  - '**/docs/psyco/*'
-  - '**/docs/psycho/*'
+SRS:
+- changed-files:
+  - any-glob-to-any-file: '**/docs/srs/**'
+
+FFS:
+- changed-files:
+  - any-glob-to-any-file: '**/docs/ffs/**'
+
+Psycho | 精神科:
+- changed-files:
+  - any-glob-to-any-file:
+    - '**/docs/psyco/**'
+    - '**/docs/psycho/**'
+
+Voice | 声音相关:
+- changed-files:
+  - any-glob-to-any-file:
+    - '**/docs/docs/vocal-surgery/**'
+    - '**/docs/docs/vocal-therapy/**'
+
+Site | 站点:
+- changed-files:
+  - any-glob-to-any-file: '**/themes/**'

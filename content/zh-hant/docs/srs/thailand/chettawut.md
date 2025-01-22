@@ -13,17 +13,17 @@ title: Chettawut 醫生
 - 電話：{{< telephone "+66 0-2078-8919" >}}
 - LINE：{{< shields/line "wihhospital" >}}
 
-醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+醫療中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
 
 ## 手術費用和繳費方式 {#payment}
 
 ```csv
 手術方式,價格
-零深度,{{< currency 330000 THB >}}
-皮瓣,{{< currency 350000 THB >}}
-結腸,{{< currency 450000 THB >}}
+零深度,{{< currency 340000 THB >}}
+皮瓣,{{< currency 360000 THB >}}
+結腸,{{< currency 550000 THB >}}
 結腸（腹腔鏡）,{{< currency 650000 THB >}}
-腹膜,{{< currency 530000 THB >}}
+腹膜,{{< currency 700000 THB >}}
 ```
 
 {{< notice info "備註" >}}

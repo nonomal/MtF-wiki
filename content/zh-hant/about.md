@@ -6,7 +6,7 @@ weight: 0
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css">
 
-<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;" alt="MtF.wiki"/>
+<img src="/new/mtf-wiki-long.svg" style="background-color:none;border:none;padding:16px 16px 32px" alt="MtF.wiki"/>
 
 {{< mtf-wiki >}} 由 {{< project-trans >}} 維護，致力於成為一個免費、開放且持續更新的跨性別女性知識整合網站
 
@@ -15,8 +15,6 @@ weight: 0
 本專案
 
 <i class="bi bi-link-45deg"></i> 主頁：<https://MtF.wiki>
-
-<i class="bi bi-link-45deg"></i> 備用入口：<https://MtFwiki.cn>，<https://MtFwiki.com>
 
 兄弟站：<https://FtM.wiki>
 
@@ -30,17 +28,17 @@ weight: 0
 
 ## 社群聯絡
 
-Discord {{< shields/discord 883004164760801320 "MtF.wiki Official" "https://link.mtf.wiki/discord" >}}
+Discord {{< shields/discord 883004164760801320 "Project Trans Community" "https://link.mtf.wiki/discord" >}}
 
 Twitter {{< shields/twitter MtFwiki >}}
 
 GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
-電郵 <hi@mtf.wiki>
+電郵 <mtfwiki@project-trans.org>
 
 ## 致謝
 
-本網站目前使用 [Hugo][hugo-url] 部署於 [GitHub Pages][pages-url]，並使用 [zdoc][zdoc-url] 主題，在此表示感謝！
+本網站目前使用 [Hugo][hugo-url] 部署於 [Cloudflare Pages][pages-url]，並使用 [zdoc][zdoc-url] 主題，在此表示感謝！
 
 本資料庫在編輯過程中參考了諸多資料，在此一併致謝。
 
@@ -50,4 +48,4 @@ GitHub {{< shields/github-issue "project-trans/mtf-wiki" >}}
 
 [hugo-url]: https://github.com/gohugoio/hugo
 [zdoc-url]: https://github.com/zzossig/hugo-theme-zdoc
-[pages-url]: https://pages.github.com
+[pages-url]: https://pages.cloudflare.com
