@@ -1,5 +1,7 @@
 ---
 title: 四川省人民医院｜王小红
+weight: 400
+draft: true
 ---
 
 {{< notice info >}}
@@ -42,7 +44,7 @@ title: 四川省人民医院｜王小红
 
 ## 问诊细节
 
-- 可在家长同意的情况下开具 HRT 药物处方
+- 可在所有陪诊监护人均同意的情况下开具 HRT 药物处方
 
 {{< expand "知情同意书" >}}
 {{< gallery pattern="icf-*" >}}

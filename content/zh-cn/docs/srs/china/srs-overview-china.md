@@ -10,7 +10,7 @@ slug: overview
 
 ## 法律依据 {#legal}
 
-依据 [《性别重置技术临床应用管理规范（2022 版）》](http://www.nhc.gov.cn/yzygj/s7657/202204/2efe9f8ca13f499c8e1f70844fe96144.shtml)
+依据 [《性别重置技术临床应用管理规范（2022 版）》](https://project-trans.org/china-legal/spec/2022-04-20/srs/readme)
 
 > 三、技术管理基本要求
 >
@@ -61,5 +61,4 @@ slug: overview
 
 ## 术后事项 {#post-matter}
 
-1. [证件变更指引]({{< ref "id-card" >}})，一般凭出院材料走「A)三甲性别鉴定公证」即可。
-1. [学籍学历变更指引]({{< ref "education" >}})
+- [户口身份证变更指引]({{< ref "id-card" >}})，一般凭出院材料走「A)三甲性别鉴定公证」即可。

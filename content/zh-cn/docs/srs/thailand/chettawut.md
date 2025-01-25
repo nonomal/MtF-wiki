@@ -4,31 +4,46 @@ title: Chettawut 医生
 
 ![Doctor](/images/srs/thailand/chettawut/doctor.jpg)
 
+{{< notice warning "注意" >}}
+该医生存在一天内安排多台手术的情况，且有在手术期间出现在病房查房的目击报告
+
+相关讨论：[issues#761](https://github.com/project-trans/MtF-wiki/issues/761)
+{{< /notice >}}
+
 ## 医生简介 {#intro}
 
-- 医生姓名：Chettawut，蔡达武 {{< tag/pos "WPATH 成员" >}}
+- 医生姓名：Chettawut，蔡达武
 - 所在医院：[WIH International Hospital](https://goo.gl/maps/oKzSC5dHzwqK1Smm9)
 - 官方网站: [WIH International hospital](https://wihhospital.com/en/)
 - 邮箱：<info@wihhospital.com>
 - 电话：{{< telephone "+66 0-2078-8919" >}}
 - LINE：{{< shields/line "wihhospital" >}}
 
-医疗中介：梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}
+## 医疗中介
+
+- 梁金 {{< shields/line "jin235" >}}、<jinliang222@gmail.com>、{{< shields/telegram "info4ts" >}}、{{< shields/wechat "LiangJin3039" >}}
+
+    从已知信息来看，大陆客人联系医院官方会被转交梁金，梁金处手术报价**低于**官方。
+
+- 曼谷雨 {{< shields/wechat "manguyu003" >}}
+
+    报价较高
 
 ## 手术费用和缴费方式 {#payment}
 
 ```csv
-手术方式,价格
-零深度,{{< currency 330000 THB >}}
-皮瓣,{{< currency 350000 THB >}}
-结肠,{{< currency 450000 THB >}}
-结肠（腹腔镜）,{{< currency 650000 THB >}}
-腹膜,{{< currency 530000 THB >}}
+手术方式,价格,最大允许BMI,阴道平均深度
+睾丸切除术,{{< currency 100000 THB >}},N/A,N/A
+零深度,{{< currency 340000 THB >}},35,无
+皮瓣,{{< currency 360000 THB >}},32,6 英寸
+结肠,{{< currency 550000 THB >}},,
+结肠（腹腔镜）,{{< currency 650000 THB >}},28,7.5 英寸
+腹膜,{{< currency 700000 THB >}},28,6 英寸
 ```
 
-{{< notice info "备注" >}}
-以上报价从梁金处获得，其他途径的报价可能有异。
-{{< /notice >}}
+手术费用包括外科医生和麻醉师的专业费用、护理服务、手术室费用、标准药品、往返机场和医院的交通费用；不包括机票和术前检查费用。
+
+费用仅供参考，来源为梁金处报价，请在预约时咨询医院。
 
 可以使用泰铢现金、跨境汇款（含 [Wise](https://wise.com/)）、国际信用卡/储蓄卡、银联卡、支付宝、微信等方式支付医院费用。
 
@@ -36,7 +51,7 @@ title: Chettawut 医生
 
 医院或合作酒店住宿：大概需要 3 ~ 4 周。
 
-目前医院只提供**院内住宿部**与 **[Bangkok Rama](https://g.page/BaanSiRi)** 两种选项，最低价格均为每晚 {{< currency 2700 THB >}}。需要在落地泰国前全款预付住宿费用，否则不提供接送、出院之后的探视与护理等服务。选择院内住宿部护士每日会探视 2 次，Bangkok Rama 则为护士每日探视 1 次。\
+目前医院只提供**院内住宿部**与 **[Bangkok Rama](https://g.page/BaanSiRi)** 两种选项，最低价格为每晚 {{< currency 2900 THB >}}。需要在落地泰国前全款预付住宿费用，否则不提供接送、出院之后的探视与护理等服务。选择院内住宿部护士每日会探视 2 次，Bangkok Rama 则为护士每日探视 1 次。\
 住宿需要至少在医院住满 30 天，或按来回机票酌情增减。因手术费用含**病房**4 天，因此可以在上述基础上减 4 晚进行计算。如：若住 30 晚，则需额外支付 26 晚的住宿费用。\
 酒店免费派送早餐，午餐、晚餐自理。
 
@@ -66,8 +81,6 @@ Chet 的技术与 [Suporn]({{< ref "suporn" >}}) 类似，均为[非阴茎翻转
 
 值得注意的是 chet 的手术对术后[通模具(dilation)]({{< ref "#dilation" >}})的要求十分苛刻，术后会在这方面消耗大量时间，考虑手术时也应该考虑这方面因素。
 
-有多个报告称每日可能有大于一台手术。
-
 ### 关于肉芽 {#about-tumors}
 
 Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时候用电刀处理掉肉芽。建议尽量在泰国多休养一段时间，以防回国后由于各种因素出现严重的肉芽增生。
@@ -75,8 +88,6 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
 在通模具的时候需要充分润滑以避免对皮肤造成损伤。建议补充足够的蛋白质来促进愈合，这样也能够避免肉芽增生。
 
 ## 预约事项 {#precautions-order}
-
-1. 为了保证手术质量，正常情况下 Chettawut 医生作为唯一的主刀医师每天只会安排一个手术，因此确认手术日期时间会稍长。
 
 1. **一旦双方确认了手术日期，顾客需要在 10 天内支付 20% 的订金。** 如果订金没有按时支付，手术日期将被延后。
 
@@ -92,27 +103,24 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
    - 深静脉血栓
    - 癌症患者和一切有可能引起并发症的慢性疾病
 
-1. BMI <= 33；使用结肠者要求 BMI < 28，且体重 80 kg 以下。
-
 ## 术前事项 {#before-surgery}
 
 1. 手术需要两位心理医生的证明
 
    其中可以自行提供一份您当地医院 **精神科** 证明（翻译成英文，注意：**心理科不行**，证明上必须写有 **建议手术** 的字样）
    {{< expand "样例">}}![diagnosis](/images/srs/thailand/chettawut/diagnosis.png){{< /expand >}}
-   泰国心理医生价格 {{< currency 2500 THB >}} 每位
+   泰国心理医生价格 {{< currency 10000 THB >}} 每位
 
-1. 术前检查项（建议在国内医院做好翻译成英文）：
+1. 术前检查项（建议在国内医院做好翻译成英文，检查日期距离手术日期六周以内）：
 
    - CBC 全血检测报告
    - HIV
-   - BUN 肾功能
+   - Cr 血清肌酐
    - PT, PTT 凝血
    - FBS 空腹血糖
-   - 电解质（K, Na, P, Cl, Mg）
-   - HCV 丙肝
    - 正面胸部 X 光
-   - （40 岁以上检查心电图）
+   - （40 岁以上增加检查心电图）
+   - （60 岁以上增加检查 HbA1C、血脂组合、肺功能、EST 运动压力测试）
 
 1. 术前两周须立即停用任何抗凝血药物，以防止并发症出现；包括阿司匹林、血液稀释剂、非甾体抗炎药、维生素 E 和某些用于抑郁症的选择性 5-羟色胺再摄取抑制剂（SSRI，如氟西汀、帕罗西汀）。
 
@@ -241,6 +249,13 @@ Chet 术后出现肉芽是非常常见的现象，通常会在术后复诊的时
 > I can't sleep, can you give me some sleeping pills help me sleep (你甚至能获得两片曲马多)
 
 ## 术后评价 {#outcome-post-op}
+
+- 2023 年 1 月
+  {{< hiddenphoto "/images/srs/thailand/chettawut/post-2-1.jpg" >}}
+  {{< hiddenphoto "/images/srs/thailand/chettawut/post-2-2.jpg" >}}
+
+- 2022 年 11 月
+  {{< hiddenphoto "/images/srs/thailand/chettawut/post-4.jpg" >}}
 
 - 2022 年 1 月
   {{< hiddenphoto "/images/srs/thailand/chettawut/post-1.jpg" >}}

@@ -51,6 +51,10 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 [本站板块]({{< ref "hrt-overview" >}})
 [跨性别激素治疗 - 百度百科](https://baike.baidu.com/item/跨性别激素治疗)
 
+## DIY HRT
+
+指在没有医生处方的情况下自行进行 HRT。包括在无医生指导下购买药物服用和使用自制药两种情况。
+
 ## SRS
 
 {{< wiki 性别重置手术 >}}（{{< wiki "Sex reassignment surgery" en >}}）
@@ -88,7 +92,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 
 幻想变性性兴奋理论（{{< wiki Autogynephilia en >}}），一般认为是过时的理论
 
-驳 AG 论：<https://blog.mtf.wiki/posts/case-against-autogynephilia/>
+驳 AG 论这篇论文对一性欲倒错模型进行了深入的批判。[驳 AG 论中文译本 PDF 下载](https://digital.transchinese.org/%E5%AD%A6%E6%9C%AF%E6%96%87%E7%8C%AE/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/The_Case_Against_Autogynephilia_%E9%A9%B3AG_%E8%AE%BA.pdf)
 
 ## CD
 
@@ -106,3 +110,7 @@ FtX, MtX 的 X 借自日语 {{< wiki Xジェンダー ja >}}，即 non-binary �
 WPATH（世界跨性别人士健康专业协会） 为 World Professional Association for Transgender Health 的缩写
 
 官网：<https://www.wpath.org>
+
+## TGD
+
+transgender and gender diverse，跨性别与性别多元群体
